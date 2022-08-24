@@ -1,0 +1,284 @@
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\obj\Debug\Proiect.csproj.AssemblyReference.cache
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\obj\Debug\Proiect.csproj.SuggestedBindingRedirects.cache
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\obj\Debug\Proiect.Conectare.resources
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\Proiect.exe
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\Proiect.pdb
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\obj\Debug\Proiect.Pacienti.resources
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\obj\Debug\Proiect.exe
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\obj\Debug\Proiect.pdb
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\obj\Debug\Proiect.Internari.resources
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\obj\Debug\Proiect.RapoarteInternari.resources
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\obj\Debug\Proiect.RapoarteUPU.resources
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\EnvDTE.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\stdole.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\obj\Debug\Proiect.RaportrdlcInternari.resources
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\obj\Debug\Proiect.RaportrdlcUPU.resources
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\obj\Debug\Proiect.csproj.CopyComplete
+C:\Users\olaru\Desktop\ProiectMPP2\VS\Proiect\obj\Debug\Proiect.RaportrdlcInternariPaturi.resources
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\Proiect.exe.config
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\Proiect.exe
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\Proiect.pdb
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\EnvDTE.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\stdole.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.csproj.AssemblyReference.cache
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.csproj.SuggestedBindingRedirects.cache
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.Conectare.resources
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.Internari.resources
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.Pacienti.resources
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.RapoarteInternari.resources
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.RapoarteUPU.resources
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.RaportrdlcInternari.resources
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.RaportrdlcInternariPaturi.resources
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.RaportrdlcUPU.resources
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.csproj.CopyComplete
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.exe
+C:\Users\olaru\Desktop\Facultate\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.pdb
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\Proiect.exe.config
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\Proiect.exe
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\Proiect.pdb
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\EnvDTE.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\stdole.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.csproj.AssemblyReference.cache
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.csproj.SuggestedBindingRedirects.cache
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.Conectare.resources
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.Internari.resources
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.Pacienti.resources
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.RapoarteInternari.resources
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.RapoarteUPU.resources
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.RaportrdlcInternari.resources
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.RaportrdlcInternariPaturi.resources
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.RaportrdlcUPU.resources
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.csproj.CopyComplete
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.exe
+C:\Users\olaru\Documents\Proiect .NET\Medii de Proiectare\Proiect\VS\obj\Debug\Proiect.pdb
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\Proiect.exe.config
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\Proiect.exe
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\Proiect.pdb
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\EnvDTE.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\stdole.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olaru\Desktop\ProiectMPP2\VS\obj\Debug\Proiect.csproj.AssemblyReference.cache
+C:\Users\olaru\Desktop\ProiectMPP2\VS\obj\Debug\Proiect.csproj.SuggestedBindingRedirects.cache
+C:\Users\olaru\Desktop\ProiectMPP2\VS\obj\Debug\Proiect.Conectare.resources
+C:\Users\olaru\Desktop\ProiectMPP2\VS\obj\Debug\Proiect.Internari.resources
+C:\Users\olaru\Desktop\ProiectMPP2\VS\obj\Debug\Proiect.Pacienti.resources
+C:\Users\olaru\Desktop\ProiectMPP2\VS\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\olaru\Desktop\ProiectMPP2\VS\obj\Debug\Proiect.RapoarteInternari.resources
+C:\Users\olaru\Desktop\ProiectMPP2\VS\obj\Debug\Proiect.RapoarteUPU.resources
+C:\Users\olaru\Desktop\ProiectMPP2\VS\obj\Debug\Proiect.RaportrdlcInternari.resources
+C:\Users\olaru\Desktop\ProiectMPP2\VS\obj\Debug\Proiect.RaportrdlcInternariPaturi.resources
+C:\Users\olaru\Desktop\ProiectMPP2\VS\obj\Debug\Proiect.RaportrdlcUPU.resources
+C:\Users\olaru\Desktop\ProiectMPP2\VS\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\olaru\Desktop\ProiectMPP2\VS\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\olaru\Desktop\ProiectMPP2\VS\obj\Debug\Proiect.csproj.CopyComplete
+C:\Users\olaru\Desktop\ProiectMPP2\VS\obj\Debug\Proiect.exe
+C:\Users\olaru\Desktop\ProiectMPP2\VS\obj\Debug\Proiect.pdb
